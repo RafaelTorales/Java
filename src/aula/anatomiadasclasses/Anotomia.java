@@ -1,6 +1,6 @@
 package aula.anatomiadasclasses;
 
-public class anotomia {
+public class Anotomia {
     public static void main(String[] args) {
         String primeiroNome = "Rafael";
         String segundoNome = "Torales";
